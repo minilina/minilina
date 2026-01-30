@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&weight=700&size=40&duration=3000&pause=1000&color=992E31&center=true&vCenter=true&width=500&lines=hi!+i'm+alba" alt="Typing SVG" />
 </h1>
 
-<div align="center" style="font-family: 'Cascadia Mono', monospace; font-size: 16px; font-weight: bold; height: 40px; line-height: 40px;">
+<div align="center" style="font-family: 'Cascadia Mono', monospace; font-size: 24px; font-weight: bold; height: 40px; line-height: 40px;">
   currently studying computer engineering @ UCM
 </div>
 
