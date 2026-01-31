@@ -13,10 +13,16 @@
 
 <h3 align="left" style="font-family: 'Cascadia Mono', monospace;">languages and tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" width="40" height="40"/></a>
 </p>
 
 <h3 align="left" style="font-family: 'Cascadia Mono', monospace;">my socials:</h3>
 <p align="left">
-  <a href="https://twitter.com/zodiaclina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zodiaclina" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/aaalbaricoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaalbaricoke" height="30" width="40" /></a>
+  <a href="https://x.com/zodiaclina" target="blank">
+    <img align="center" src="https://cdn.simpleicons.org/x/472185" alt="x" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/aaalbaricoke" target="blank">
+    <img align="center" src="https://cdn.simpleicons.org/instagram/472185" alt="instagram" height="30" width="40" />
+  </a>
 </p>
