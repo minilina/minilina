@@ -7,7 +7,7 @@
   🟣 currently studying computer engineering @ UCM 
   </p>
   <p>
-    (～￣▽￣)～
+    ☆*: .｡. o(≧▽≦)o .｡.:*☆
   </p>
   </div>
 
